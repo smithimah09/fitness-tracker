@@ -7,7 +7,6 @@ This project is a full machine learning pipeline that classifies barbell exercis
 ## **Project Overview**  
 
 ### **Part 1: Introduction and Dataset Setup**  
-- Defined project goals and introduced the concept of the quantified self.  
 - Explored the MetaMotion sensor for data collection and reviewed the dataset structure.  
 
 ### **Part 2: Data Preprocessing**  
